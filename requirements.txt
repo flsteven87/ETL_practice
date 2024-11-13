@@ -20,6 +20,7 @@ dacite==1.8.1
 debugpy @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/debugpy_1699253073094/work
 decorator @ file:///opt/conda/conda-bld/decorator_1643638310831/work
 defusedxml==0.7.1
+distro==1.9.0
 executing==2.1.0
 fastjsonschema==2.20.0
 fonttools==4.54.1
@@ -36,6 +37,7 @@ ipywidgets==8.1.5
 isoduration==20.11.0
 jedi @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_194648shy3/croot/jedi_1721058355221/work
 Jinja2==3.1.4
+jiter==0.7.1
 joblib==1.4.2
 json5==0.9.25
 jsonpointer==3.0.0
@@ -71,6 +73,7 @@ notebook==7.2.2
 notebook_shim==0.2.4
 numba==0.60.0
 numpy==2.0.2
+openai==1.54.4
 overrides==7.7.0
 packaging @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_81ri4yfpjw/croot/packaging_1720101866878/work
 pandas==2.2.3
@@ -92,6 +95,7 @@ pydantic_core==2.23.4
 Pygments @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/pygments_1699238063295/work
 pyparsing==3.2.0
 python-dateutil @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_66ud1l42_h/croot/python-dateutil_1716495741162/work
+python-dotenv==1.0.1
 python-json-logger==2.0.7
 pytz==2024.2
 PyWavelets==1.7.0
