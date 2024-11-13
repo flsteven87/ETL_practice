@@ -1,0 +1,136 @@
+annotated-types==0.7.0
+anyio==4.6.2.post1
+appnope @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/appnope_1699303798458/work
+argon2-cffi==23.1.0
+argon2-cffi-bindings==21.2.0
+arrow==1.3.0
+asttokens @ file:///opt/conda/conda-bld/asttokens_1646925590279/work
+async-lru==2.0.4
+attrs==24.2.0
+babel==2.16.0
+beautifulsoup4==4.12.3
+bleach==6.2.0
+certifi==2024.8.30
+cffi==1.17.1
+charset-normalizer==3.4.0
+comm @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_3doui0bmzb/croot/comm_1709322861485/work
+contourpy==1.3.0
+cycler==0.12.1
+dacite==1.8.1
+debugpy @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/debugpy_1699253073094/work
+decorator @ file:///opt/conda/conda-bld/decorator_1643638310831/work
+defusedxml==0.7.1
+executing==2.1.0
+fastjsonschema==2.20.0
+fonttools==4.54.1
+fqdn==1.5.1
+h11==0.14.0
+htmlmin==0.1.12
+httpcore==1.0.6
+httpx==0.27.2
+idna==3.10
+ImageHash==4.3.1
+ipykernel @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_ddflobe9t3/croot/ipykernel_1728665605034/work
+ipython @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_31k34m3e25/croot/ipython_1726064238879/work
+ipywidgets==8.1.5
+isoduration==20.11.0
+jedi @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_194648shy3/croot/jedi_1721058355221/work
+Jinja2==3.1.4
+joblib==1.4.2
+json5==0.9.25
+jsonpointer==3.0.0
+jsonschema==4.23.0
+jsonschema-specifications==2024.10.1
+jupyter==1.1.1
+jupyter-console==6.6.3
+jupyter-events==0.10.0
+jupyter-lsp==2.2.5
+jupyter_client==8.6.3
+jupyter_core @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_73nomeum4p/croot/jupyter_core_1718818302815/work
+jupyter_server==2.14.2
+jupyter_server_terminals==0.5.3
+jupyterlab==4.2.5
+jupyterlab_pygments==0.3.0
+jupyterlab_server==2.27.3
+jupyterlab_widgets==3.0.13
+kagglehub==0.3.4
+kiwisolver==1.4.7
+llvmlite==0.43.0
+MarkupSafe==3.0.2
+matplotlib==3.9.2
+matplotlib-inline @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/matplotlib-inline_1699242375920/work
+missingno==0.5.2
+mistune==3.0.2
+multimethod==1.12
+nbclient==0.10.0
+nbconvert==7.16.4
+nbformat==5.10.4
+nest-asyncio @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_310vb5e2a0/croot/nest-asyncio_1708532678212/work
+networkx==3.4.2
+notebook==7.2.2
+notebook_shim==0.2.4
+numba==0.60.0
+numpy==2.0.2
+overrides==7.7.0
+packaging @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_81ri4yfpjw/croot/packaging_1720101866878/work
+pandas==2.2.3
+pandocfilters==1.5.1
+parso==0.8.4
+patsy==0.5.6
+pexpect==4.9.0
+phik==0.12.4
+pillow==11.0.0
+platformdirs @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/platformdirs_1701803010714/work
+prometheus_client==0.21.0
+prompt-toolkit @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_c63v4kqjzr/croot/prompt-toolkit_1704404354115/work
+psutil @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/psutil_1699248249804/work
+ptyprocess @ file:///tmp/build/80754af9/ptyprocess_1609355006118/work/dist/ptyprocess-0.7.0-py2.py3-none-any.whl
+pure-eval @ file:///opt/conda/conda-bld/pure_eval_1646925070566/work
+pycparser==2.22
+pydantic==2.9.2
+pydantic_core==2.23.4
+Pygments @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/pygments_1699238063295/work
+pyparsing==3.2.0
+python-dateutil @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_66ud1l42_h/croot/python-dateutil_1716495741162/work
+python-json-logger==2.0.7
+pytz==2024.2
+PyWavelets==1.7.0
+PyYAML==6.0.2
+pyzmq==26.2.0
+referencing==0.35.1
+requests==2.32.3
+rfc3339-validator==0.1.4
+rfc3986-validator==0.1.1
+rpds-py==0.20.1
+scipy==1.13.1
+seaborn==0.13.2
+Send2Trash==1.8.3
+setuptools==75.1.0
+six @ file:///tmp/build/80754af9/six_1644875935023/work
+sniffio==1.3.1
+soupsieve==2.6
+SQLAlchemy==2.0.36
+stack-data @ file:///opt/conda/conda-bld/stack_data_1646927590127/work
+statsmodels==0.14.4
+style==1.1.0
+terminado==0.18.1
+tinycss2==1.4.0
+tornado @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_a4w03z48br/croot/tornado_1718740114858/work
+tqdm==4.66.6
+traitlets @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_500m2_1wyk/croot/traitlets_1718227071952/work
+typeguard==4.4.0
+types-python-dateutil==2.9.0.20241003
+typing_extensions==4.12.2
+tzdata==2024.2
+update==0.0.1
+uri-template==1.3.0
+urllib3==2.2.3
+visions==0.7.6
+wcwidth==0.2.13
+webcolors==24.8.0
+webencodings==0.5.1
+websocket-client==1.8.0
+wheel==0.44.0
+widgetsnbextension==4.0.13
+wordcloud==1.9.3
+ydata-profiling==4.12.0

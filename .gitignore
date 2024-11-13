@@ -1,0 +1,68 @@
+# Python 編譯檔案
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C 擴展
+*.so
+
+# 發布相關
+dist/
+build/
+*.egg-info/
+
+# 虛擬環境
+venv/
+env/
+ENV/
+.env
+.venv
+env.bak/
+venv.bak/
+
+# IDE 相關
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# 單元測試 / 覆蓋率報告
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# 日誌檔案
+*.log
+
+# 本地設定檔
+local_settings.py
+
+# 資料庫
+*.db
+*.sqlite3
+
+# 環境變數檔案
+.env
+.env.local
+.env.*.local
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# 下載的資料
+.csv
